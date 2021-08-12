@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samruddhi2424
 - 👀 I’m interested in Learning new things ..
-- 🌱 I’m currently learning  computer engineering  ...
+- 🌱 I’m currently pursuing B.tech degree in computer engineering  ...
 - 💞️ I’m looking to collaborate on machine learning 
 - 📫 How to reach me patilsamruddhi2407@gmail.com
 
